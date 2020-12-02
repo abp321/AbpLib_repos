@@ -1,0 +1,9 @@
+C:\Users\abp\source\repos\abpLib\AbpLib\bin\Debug\netcoreapp3.1\AbpLib.deps.json
+C:\Users\abp\source\repos\abpLib\AbpLib\bin\Debug\netcoreapp3.1\AbpLib.dll
+C:\Users\abp\source\repos\abpLib\AbpLib\bin\Debug\netcoreapp3.1\AbpLib.pdb
+C:\Users\abp\source\repos\abpLib\AbpLib\obj\Debug\netcoreapp3.1\AbpLib.csprojAssemblyReference.cache
+C:\Users\abp\source\repos\abpLib\AbpLib\obj\Debug\netcoreapp3.1\AbpLib.csproj.CoreCompileInputs.cache
+C:\Users\abp\source\repos\abpLib\AbpLib\obj\Debug\netcoreapp3.1\AbpLib.AssemblyInfoInputs.cache
+C:\Users\abp\source\repos\abpLib\AbpLib\obj\Debug\netcoreapp3.1\AbpLib.AssemblyInfo.cs
+C:\Users\abp\source\repos\abpLib\AbpLib\obj\Debug\netcoreapp3.1\AbpLib.dll
+C:\Users\abp\source\repos\abpLib\AbpLib\obj\Debug\netcoreapp3.1\AbpLib.pdb

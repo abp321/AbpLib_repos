@@ -1,0 +1,12 @@
+C:\Users\abp\source\repos\abpLib\AbpLib\bin\Release\net5.0\AbpLib.deps.json
+C:\Users\abp\source\repos\abpLib\AbpLib\bin\Release\net5.0\AbpLib.dll
+C:\Users\abp\source\repos\abpLib\AbpLib\bin\Release\net5.0\ref\AbpLib.dll
+C:\Users\abp\source\repos\abpLib\AbpLib\bin\Release\net5.0\AbpLib.pdb
+C:\Users\abp\source\repos\abpLib\AbpLib\obj\Release\net5.0\AbpLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abp\source\repos\abpLib\AbpLib\obj\Release\net5.0\AbpLib.AssemblyInfoInputs.cache
+C:\Users\abp\source\repos\abpLib\AbpLib\obj\Release\net5.0\AbpLib.AssemblyInfo.cs
+C:\Users\abp\source\repos\abpLib\AbpLib\obj\Release\net5.0\AbpLib.csproj.CoreCompileInputs.cache
+C:\Users\abp\source\repos\abpLib\AbpLib\obj\Release\net5.0\AbpLib.dll
+C:\Users\abp\source\repos\abpLib\AbpLib\obj\Release\net5.0\ref\AbpLib.dll
+C:\Users\abp\source\repos\abpLib\AbpLib\obj\Release\net5.0\AbpLib.pdb
+C:\Users\abp\source\repos\abpLib\AbpLib\obj\Release\net5.0\AbpLib.csprojAssemblyReference.cache
